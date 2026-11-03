@@ -1,5 +1,4 @@
-# porsche-sales-dashboard
- Dashboard interativa de vendas Porsche com filtros, KPIs e insights por modelo e cidade.
+
 # Porsche Sales Dashboard
 
 Dashboard interativa para analisar 100 registros de vendas Porsche. Permite explorar modelos, anos-modelo, cidades, estados, formas de pagamento e períodos de venda.
